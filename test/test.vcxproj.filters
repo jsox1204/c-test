@@ -21,5 +21,8 @@
     <ClCompile Include="은행예금.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="가위바위보.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
