@@ -14,12 +14,12 @@ int main() {
 
     do {
         
-        char player = get_user_choice();
+        const char player = get_user_choice();
 
         show_choice(player);
         std::cout << "를 선택했습니다.\n";
 
-        char computer = get_computer_choice();
+        const char computer = get_computer_choice();
         std::cout << "컴퓨터의 선택: ";
         show_choice(computer);
 
