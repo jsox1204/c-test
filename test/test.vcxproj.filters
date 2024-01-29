@@ -48,5 +48,14 @@
     <ClCompile Include="bestAlbum.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="noSameNumber.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="functionalDevelopment.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stockPrice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
