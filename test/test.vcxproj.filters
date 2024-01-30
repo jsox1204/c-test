@@ -57,5 +57,11 @@
     <ClCompile Include="stockPrice.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="correctParentheses.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="process.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
