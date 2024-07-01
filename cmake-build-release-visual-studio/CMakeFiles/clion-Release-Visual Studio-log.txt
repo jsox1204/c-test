@@ -1,0 +1,5 @@
+C:\Users\user-pc\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -G "Visual Studio 17 2022" -S C:\Users\user-pc\source\repos\test -B C:\Users\user-pc\source\repos\test\cmake-build-release-visual-studio
+-- Selecting Windows SDK version 10.0.19041.0 to target Windows 10.0.22631.
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/user-pc/source/repos/test/cmake-build-release-visual-studio

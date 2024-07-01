@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCInformation.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCXXInformation.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeGenericSystem.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeInitializeConfigs.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeLanguageInformation.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeRCInformation.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-C.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Compiler/MSVC.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-Initialize.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows-MSVC.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Windows.cmake
+C:/Users/user-pc/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/WindowsPaths.cmake
+C:/Users/user-pc/source/repos/test/CMakeLists.txt
+C:/Users/user-pc/source/repos/test/cmake-build-release-visual-studio/CMakeFiles/3.28.1/CMakeCCompiler.cmake
+C:/Users/user-pc/source/repos/test/cmake-build-release-visual-studio/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake
+C:/Users/user-pc/source/repos/test/cmake-build-release-visual-studio/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
+C:/Users/user-pc/source/repos/test/cmake-build-release-visual-studio/CMakeFiles/3.28.1/CMakeSystem.cmake
