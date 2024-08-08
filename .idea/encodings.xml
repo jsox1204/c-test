@@ -2,7 +2,10 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/test/mostReceivedGifts.cpp" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/test/퀴즈.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/exclude/TicTacToe.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/test/exclude/bestAlbum.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/test/exclude/moreHot.cpp" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/test/exclude/mostReceivedGifts.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/exclude/퀴즈.cpp" charset="UTF-8" />
   </component>
 </project>

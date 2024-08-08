@@ -3,6 +3,4 @@ project(test)
 
 set(CMAKE_CXX_STANDARD 17)
 
-
-
-add_executable(test_mostReceivedGifts test/mostReceivedGifts.cpp)
+add_executable(new_target test/minRectangle.cpp)

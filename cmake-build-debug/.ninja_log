@@ -1,9 +1,12 @@
 # ninja log v6
 23	936	7415442704229595	CMakeFiles/new_target.dir/test/correctParentheses.cpp.obj	44b6b432b701fb4b
 53	956	7415442704539960	CMakeFiles/new_target.dir/test/moreHot.cpp.obj	187ebcb97441cde7
+3	701	7415506867389826	CMakeFiles/test_mostReceivedGifts.dir/test/mostReceivedGifts.cpp.obj	d3ca3bd5a6452675
 5	1108	7415442704049427	CMakeFiles/new_target.dir/test/AthletesWhoDidntFinish.cpp.obj	c02f2fdc9fe974a9
 35	1136	7415442704349700	CMakeFiles/new_target.dir/test/listOfPhoneNumber.cpp.obj	a6615caa7e93bc5e
 17	1186	7415442704179553	CMakeFiles/new_target.dir/test/clotheCombine.cpp.obj	c4a0e56c332ce8d3
 12	1444	7415442704119491	CMakeFiles/new_target.dir/test/bestAlbum.cpp.obj	d077ce010bb3f830
-3	701	7415506867389826	CMakeFiles/test_mostReceivedGifts.dir/test/mostReceivedGifts.cpp.obj	d3ca3bd5a6452675
 703	839	7415506874390918	test_mostReceivedGifts.exe	37ae5eb502d68ef
+5	752	7448099246784512	CMakeFiles/new_target.dir/test/minRectangle.cpp.obj	dd6665e62fd7a588
+8	571	7448099665879067	CMakeFiles/new_target.dir/test/minRectangle.cpp.obj	dd6665e62fd7a588
+571	684	7448099671509635	new_target.exe	66a9af10eb4797ae

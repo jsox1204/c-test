@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/user-pc/source/repos/test/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target test_mostReceivedGifts
+# Object build statements for EXECUTABLE target new_target
 
 
 #############################################
-# Order-only phony target for test_mostReceivedGifts
+# Order-only phony target for new_target
 
-build cmake_object_order_depends_target_test_mostReceivedGifts: phony || CMakeFiles/test_mostReceivedGifts.dir
+build cmake_object_order_depends_target_new_target: phony || CMakeFiles/new_target.dir
 
-build CMakeFiles/test_mostReceivedGifts.dir/test/mostReceivedGifts.cpp.obj: CXX_COMPILER__test_mostReceivedGifts_unscanned_Debug C$:/Users/user-pc/source/repos/test/test/mostReceivedGifts.cpp || cmake_object_order_depends_target_test_mostReceivedGifts
-  DEP_FILE = CMakeFiles\test_mostReceivedGifts.dir\test\mostReceivedGifts.cpp.obj.d
+build CMakeFiles/new_target.dir/test/minRectangle.cpp.obj: CXX_COMPILER__new_target_unscanned_Debug C$:/Users/user-pc/source/repos/test/test/minRectangle.cpp || cmake_object_order_depends_target_new_target
+  DEP_FILE = CMakeFiles\new_target.dir\test\minRectangle.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\test_mostReceivedGifts.dir
-  OBJECT_FILE_DIR = CMakeFiles\test_mostReceivedGifts.dir\test
+  OBJECT_DIR = CMakeFiles\new_target.dir
+  OBJECT_FILE_DIR = CMakeFiles\new_target.dir\test
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target test_mostReceivedGifts
+# Link build statements for EXECUTABLE target new_target
 
 
 #############################################
-# Link the executable test_mostReceivedGifts.exe
+# Link the executable new_target.exe
 
-build test_mostReceivedGifts.exe: CXX_EXECUTABLE_LINKER__test_mostReceivedGifts_Debug CMakeFiles/test_mostReceivedGifts.dir/test/mostReceivedGifts.cpp.obj
+build new_target.exe: CXX_EXECUTABLE_LINKER__new_target_Debug CMakeFiles/new_target.dir/test/minRectangle.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\test_mostReceivedGifts.dir
+  OBJECT_DIR = CMakeFiles\new_target.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = test_mostReceivedGifts.exe
-  TARGET_IMPLIB = libtest_mostReceivedGifts.dll.a
-  TARGET_PDB = test_mostReceivedGifts.exe.dbg
+  TARGET_FILE = new_target.exe
+  TARGET_IMPLIB = libnew_target.dll.a
+  TARGET_PDB = new_target.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build test_mostReceivedGifts: phony test_mostReceivedGifts.exe
+build new_target: phony new_target.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build test_mostReceivedGifts: phony test_mostReceivedGifts.exe
 #############################################
 # Folder: C:/Users/user-pc/source/repos/test/cmake-build-debug
 
-build all: phony test_mostReceivedGifts.exe
+build all: phony new_target.exe
 
 # =============================================================================
 # Built-in targets
